@@ -13,6 +13,3 @@
 [submodule "packages/borderline-documentation"]
 	path = packages/borderline-documentation
 	url = https://github.com/dsi-icl/borderline-documentation.git
-[submodule "packages/borderline-utils"]
-	path = packages/borderline-utils
-	url = https://github.com/dsi-icl/borderline-utils.git

@@ -87,7 +87,7 @@
     },
     "devDependencies": {
         "react": "16.13.1",
-        "react-dom": "16.13.1"
+        "react-dom": "16.14.0"
     },
     "optionalDependencies": {
         "fsevents": "2.1.3"
